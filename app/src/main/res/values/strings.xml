@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">keepstate</string>
+    <string name="fName">First Name</string>
+    <string name="lName">Last Name</string>
+    <string name="city">City</string>
+    <string name="college">College</string>
+    <string name="button">Display Info</string>
+    <string name="info">Info</string>
+</resources>
